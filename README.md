@@ -21,7 +21,6 @@ A secure web-based voting system developed during my **National Diploma final ye
 
 ## 📸 Screenshots
 (Add images of login page, voting interface, and results dashboard here)  
-
 ---
 
 ## 📚 Use Case

@@ -4,6 +4,14 @@ A secure web-based voting system developed during my **National Diploma final ye
 
 ---
 
+## 🎯 Objectives  
+- Promote transparency and fairness in student elections through digital voting.  
+- Prevent multiple voting and unauthorized access using secure authentication.  
+- Enable real-time result tracking and automated vote tallying.  
+- Demonstrate the application of web technologies in electoral process modernization.
+
+---
+
 ## ⚡ Key Features
 - User authentication for voter identity verification  
 - Secure vote casting and tallying  

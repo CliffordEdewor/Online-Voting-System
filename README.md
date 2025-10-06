@@ -32,7 +32,7 @@ A secure web-based voting system developed during my **National Diploma final ye
 ---
 
 ## 📚 Use Case
-Built as a **capstone project** under the supervision of PTI Computing Department. Aimed at demonstrating how technology can strengthen trust in democratic processes.  
+This project was developed and successfully defended as a **capstone project** under the supervision of the **Computer Science & Information Technology Department, Petroleum Training Institute (PTI), Nigeria**, demonstrating how web technologies can enhance transparency and integrity in digital elections.
 
 ---
 
